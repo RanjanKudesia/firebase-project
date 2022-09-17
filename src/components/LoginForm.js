@@ -16,6 +16,8 @@ const LoginForm = ({ existingUser }) => {
             alert(error.message);
         }
     }
+
+    //This is for making new user
     // async function handleSubmit(event) {
     //     event.preventDefault();
     //     try {
